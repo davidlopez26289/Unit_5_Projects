@@ -110,6 +110,8 @@ ul#comments li p{
    width: 70%;
 }
 
-/* Footer Styles */d
-
+/* Footer Styles */
+footer{
+   clear: both;
+}
 
