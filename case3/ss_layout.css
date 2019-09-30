@@ -54,6 +54,7 @@ aside{
    margin-bottom: 20px;
    margin-left: auto;
    margin-right: auto;
+   position: relative;
 }
 #mapImage>img{
    display: block;
@@ -62,7 +63,7 @@ aside{
 
 
 /* Interactive Map Styles */
-.battleMarkers a{
+a.battleMarkers{
    position: absolute;
 }
 
@@ -91,6 +92,8 @@ a#marker6{
    left: 544px;
 }
 /* Map Information Styles */
-
+div.mapInfo{
+   
+}
 
 
